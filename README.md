@@ -15,6 +15,7 @@ Ces commandes s'occupent de TOUT : Mise à jour du système, installation de Pyt
 ### 📱 Pour Termux (Android)
 > Copie et colle cette ligne dans Termux :
 copy and paste this :
+
 pkg update && pkg upgrade -y && pkg install python git -y && pip install requests dnspython websocket-client flask beautifulsoup4 && git clone https://github.com/johjoh51100-boop/Orcotool && cd Orcotool && python f_ultra.py
 
 
